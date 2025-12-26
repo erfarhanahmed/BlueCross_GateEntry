@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSH" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <HEAD>
+    <NAME>8560938DDD20803A4DC2F9DC7B3572</NAME>
+    <TYPE>HT</TYPE>
+    <DISPLAY_NAME>R3TR IWSV ZI_GE_IW_REPORT_SRVB               0001</DISPLAY_NAME>
+   </HEAD>
+  </asx:values>
+ </asx:abap>
+</abapGit>
